@@ -1,0 +1,1 @@
+This repository demonstrates a common syntax error in Tcl procedures involving the 'if' statement. The error arises from an improperly structured conditional statement. The solution shows the correct syntax to use.
